@@ -1,1 +1,1 @@
-# explainable-nlg
+# X-VAE-NLG
